@@ -1,4 +1,4 @@
-<p align=center> . . . work in progress . . .
+<p align=center> work in progress. please refer to my bio for basic information.
 
 <!--
 **klownaround/klownaround** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
