@@ -1,4 +1,7 @@
 <p align=center> work in progress. please refer to my bio for general information.
+<p align="center">
+<img src="https://pbs.twimg.com/media/GahBz7jW0AAvdq-?format=png&name=360x360"/>
+<br/>
 
 <!--
 **klownaround/klownaround** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
